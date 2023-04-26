@@ -1,1 +1,2 @@
 # DiscoverMoTrails
+A hiking app
